@@ -1,3 +1,6 @@
+## Note: Please dont push direct on master branch you have to create a new branch for your updates
+
+
 # E-learning Platform Using MERN
 
 # MAIN GOAL
