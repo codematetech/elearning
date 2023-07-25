@@ -18,7 +18,7 @@ In this project we are gonna us these below technologies :
 
 # Usage
 ## To run this project you can simply type in the terminal :
-
+- npm install
 - npm start
 - or
 - node --watch server
