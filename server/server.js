@@ -19,7 +19,7 @@ app.use("/api", require("./Routes/user"))
 
 // article route
 
-// app.use("/api", require("./Routes/article"))
+app.use("/api", require("./Routes/article"))
 
 // error handle function
 
